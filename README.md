@@ -27,23 +27,36 @@
 </table>
 
 ---
+## 🤝 Connect with Me:
 
-## 🤝 Connect with me:
-
-<p align="left">
-  <a href="https://linkedin.com/in/vinayj" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/wyavinay" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/vinay_j1234" target="_blank" rel="noreferrer">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/vinayj" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://linkedin.com/in/vinayj" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
+        <br>LinkedIn
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://instagram.com/wyavinay" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30" />
+        <br>Instagram
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.codechef.com/users/vinay_j1234" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="30" height="30" />
+        <br>CodeChef
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://leetcode.com/vinayj" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30" />
+        <br>LeetCode
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
