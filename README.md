@@ -2,6 +2,7 @@
   <img src="https://github.com/vinay912005/vinayJ/blob/main/codingBack.jpg?raw=true" alt="Banner" />
 </p>
 
+
 <h1 align="center">Hi 👋, I'm VINAY J</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
