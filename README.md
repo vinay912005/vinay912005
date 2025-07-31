@@ -113,7 +113,7 @@
 
 <p align="center">
   <img src="https://github.com/vinay912005/vinay912005/blob/main/pull-shark-default.png?raw=true" width="60" />
-  <img src="https://github.com/vinay912005/vinay912005/blob/main/assets/shark.png?raw=true" width="60" />
+  <img src="https://github.com/vinay912005/vinay912005/blob/main/quickdraw-default.png?raw=true" width="60" />
   <img src="https://github.com/vinay912005/vinay912005/blob/main/assets/crab.png?raw=true" width="60" />
 </p>
 ## 📊 GitHub Stats
