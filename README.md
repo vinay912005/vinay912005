@@ -109,8 +109,15 @@
   </tr>
 </table>
 
+## 🏆 Achievements
 
+<p align="center">
+  <img src="https://github.com/vinay912005/vinay912005/blob/main/assets/yolo.png?raw=true" width="60" />
+  <img src="https://github.com/vinay912005/vinay912005/blob/main/assets/shark.png?raw=true" width="60" />
+  <img src="https://github.com/vinay912005/vinay912005/blob/main/assets/crab.png?raw=true" width="60" />
+</p>
 ## 📊 GitHub Stats
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vinay912005&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
