@@ -30,9 +30,9 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github.com/vinay912005/vinay912005/blob/main/pull-shark-default.png?raw=true" width="60" />
-  <img src="https://github.com/vinay912005/vinay912005/blob/main/quickdraw-default.png?raw=true" width="60" />
-  <img src="https://github.com/vinay912005/vinay912005/blob/main/yolo.png?raw=true" width="60" />
+  <img src="https://github.com/vinay912005/vinay912005/blob/main/pull-shark-default.png?raw=true" width="150" />
+  <img src="https://github.com/vinay912005/vinay912005/blob/main/quickdraw-default.png?raw=true" width="150" />
+  <img src="https://github.com/vinay912005/vinay912005/blob/main/yolo.png?raw=true" width="150" />
 </p>
 ## 🤝 Connect with Me:
 
@@ -40,25 +40,25 @@
   <tr>
     <td align="center" width="100">
       <a href="https://linkedin.com/in/vinayj" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="60" height="60" />
         <br>LinkedIn
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://instagram.com/wyavinay" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="60" height="60" />
         <br>Instagram
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://www.codechef.com/users/vinay_j1234" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="30" height="30" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="60" height="60" />
         <br>CodeChef
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://leetcode.com/vinayj" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="60" height="60" />
         <br>LeetCode
       </a>
     </td>
