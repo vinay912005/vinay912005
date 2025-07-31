@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/vinay912005/vinayJ/blob/main/codingBack.jpg?raw=true" alt="Banner" />
+  <img src="https://github.com/vinay912005/vinay912005/blob/main/github_back.webp?raw=true" alt="Banner" />
 </p>
 
 
