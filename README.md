@@ -27,6 +27,13 @@
 </table>
 
 ---
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github.com/vinay912005/vinay912005/blob/main/pull-shark-default.png?raw=true" width="60" />
+  <img src="https://github.com/vinay912005/vinay912005/blob/main/quickdraw-default.png?raw=true" width="60" />
+  <img src="https://github.com/vinay912005/vinay912005/blob/main/yolo.png?raw=true" width="60" />
+</p>
 ## 🤝 Connect with Me:
 
 <table align="center">
@@ -109,13 +116,7 @@
   </tr>
 </table>
 
-## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github.com/vinay912005/vinay912005/blob/main/pull-shark-default.png?raw=true" width="60" />
-  <img src="https://github.com/vinay912005/vinay912005/blob/main/quickdraw-default.png?raw=true" width="60" />
-  <img src="https://github.com/vinay912005/vinay912005/blob/main/assets/crab.png?raw=true" width="60" />
-</p>
 ## 📊 GitHub Stats
 
 
